@@ -1,8 +1,8 @@
 # PDF417-js
 
-PDF417 - 2D barcode generator in Javascript
+PDF417 - 2D es un generador elaborado en javascript
 
-From input code (any text) creates PDF417 barcode with option to draw it on canvas.
+Pasa de texto a imagen.
 
 This is direct port of TCPDF PHP library from:
 http://www.tcpdf.org/
